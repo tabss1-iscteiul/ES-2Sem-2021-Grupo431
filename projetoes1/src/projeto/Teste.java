@@ -7,6 +7,11 @@ public class Teste {
 		System.out.println("Olá Mundo !!!");
 		
 	}
+	
+	
+	public void adiciona() {
+		
+	}
 
 }
 
